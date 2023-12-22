@@ -1,0 +1,67 @@
+.bton{
+        color: white;
+        background-color: #252525;
+        padding: 13px;
+        border-top-right-radius: 12px;
+}
+
+.bton:hover{
+               background-color: rgb(64, 64, 64);
+               
+}
+
+.wtitle{
+           font-size: 40px;
+           font-weight: bold;
+}
+
+.wtpara{
+          font-size: 21px;
+          color: black;
+          text-align: justify;
+}
+
+.mil{
+        color: #252525;
+        font-size: 20px;
+        border-radius: 12px;
+}
+
+.mil:hover{
+
+        background-color: orangered;
+
+
+}
+
+.pa{
+         font-size: 18px;
+         text-align: right;
+         padding-left: -20px;
+}
+
+.pro{
+        font-size: 29px;
+}
+
+.pop{
+          border: 3px solid #252525;
+          
+}
+
+.fot{
+        background-color: #252525;
+}
+
+.fotcon{
+          color: white;
+          font-size: 21px;
+}
+
+.ppdi{
+        border:5px solid #252525;
+}
+
+.fotp{
+        color: white;
+}
